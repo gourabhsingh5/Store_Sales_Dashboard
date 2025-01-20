@@ -42,6 +42,10 @@ The dataset used in this project represents transactional data for SuperStore, i
 - **Average Shipping Days**: 4 days
 
 ---
+## Dashboard
+
+![Screenshot (495)](https://github.com/gourabhsingh5/Store_Sales_Dashboard/blob/main/Screenshot%202025-01-21%20021840.png)
+![Screenshot (495)](https://github.com/gourabhsingh5/Store_Sales_Dashboard/blob/main/Screenshot%202025-01-21%20021858.png)
 
 #### Insights:
 
